@@ -1,0 +1,22 @@
+{
+    "name": "coooold/php_clc_parser",
+    "type": "library",
+    "description": "解析中图分类号解析器，获得一二级中图分类号",
+    "keywords": [
+        "CLC",
+        "中图分类",
+        "中图分类号"
+    ],
+    "authors": [
+        {
+            "name": "coooold",
+            "email": "coooold@outlook.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "CLCParser\\": "src"
+        }
+    },
+    "require": {}
+}
